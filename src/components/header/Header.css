@@ -1,0 +1,15 @@
+.main_header {
+    padding: 12px 24px;
+}
+
+.main_header a {
+    font-size: 24px;
+    color:  #000;
+    text-decoration: none;
+    margin: 0px 16px;
+}
+
+.main_header a:hover {
+    color:  #009;
+    text-decoration: underline;
+}

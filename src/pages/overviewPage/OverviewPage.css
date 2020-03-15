@@ -1,0 +1,36 @@
+.overview_container {
+    text-align: center;
+    padding-top: 32px;
+}
+
+.overview_container h1 {
+    font-size: 84px;
+    margin-top: 0;
+    margin-bottom: 16px;
+}
+
+.overview_container h2 {
+    font-size: 64px;
+    font-weight: 200;
+    margin: 0;
+}
+
+.overview_container svg {
+    width: 250px;
+    height: 250px;
+}
+
+.overview_container .temp,
+.overview_container .feels_like {
+    display: inline-block;
+    font-size: 112px;
+    padding: 0;
+    margin: 0 24px;
+    font-weight: 800;
+    color: #666;
+}
+
+.overview_container .feels_like span {
+    font-size: 48px;
+    font-weight: 400;
+}

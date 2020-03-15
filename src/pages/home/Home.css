@@ -1,0 +1,32 @@
+.home_container {
+    padding-top: 32px;
+}
+
+.home_container h1 {
+    display: block;
+    font-size: 64px;
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.home_container .home_nav {
+    padding-top: 24px;
+}
+
+.home_container a {
+    display: block;
+    width: 700px;
+    font-size: 48px;
+    color: #000;
+    text-decoration: none;
+    margin: 16px auto;
+    padding: 16px;
+    border: 1px solid #000;
+    text-align: center;
+}
+
+.home_container a:hover {
+    text-decoration: underline;
+    color: #009;
+}
